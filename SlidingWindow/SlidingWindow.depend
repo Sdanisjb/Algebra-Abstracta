@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1529020345 source:e:\algebraabstracta\slidingwindow\basiczz.cpp
+	"basicZZ.h"
+	<NTL/ZZ.h>
+	<iostream>
+	<sstream>
+
+1529020345 e:\algebraabstracta\slidingwindow\basiczz.h
+	<NTL/ZZ.h>
+	<string>
+
+1530071846 source:e:\algebraabstracta\slidingwindow\main.cpp
+	<iostream>
+	<vector>
+	<NTL/ZZ.h>
+	<chrono>
+	"basicZZ.h"
+
